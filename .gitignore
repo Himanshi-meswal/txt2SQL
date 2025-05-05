@@ -1,0 +1,7 @@
+# Ignore environment secrets
+.env
+db.py
+__pycache__/
+*.pyc
+venv/
+Northwind.db

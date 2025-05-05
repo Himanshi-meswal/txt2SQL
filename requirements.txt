@@ -1,0 +1,25 @@
+# Compatible with LangChain >=0.3.x and Pydantic v2
+langchain==0.3.25
+langchain-core==0.3.58
+langsmith==0.3.42
+langchain-google-genai>=0.0.9
+google-generativeai>=0.3.2
+
+# FastAPI version that supports pydantic>=2.x
+fastapi>=0.103.0
+
+# Core dependencies
+uvicorn[standard]
+pydantic==2.11.4
+SQLAlchemy>=2.0.0
+httpx>=0.24.0
+orjson>=3.9.14
+typing-extensions>=4.7.0
+typing-inspection>=0.4.0
+zstandard>=0.23.0
+
+torch==2.1.2
+
+streamlit>=1.24.0
+transformers==4.35.2
+sentence-transformers==2.2.2
