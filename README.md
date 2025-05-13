@@ -1,4 +1,4 @@
-# GenAI IMDB SQL POC
+# GenAI text to SQL POC
 
 ## About
 A project where you can ask plain English questions about movies, and the system generates SQL queries dynamically!
